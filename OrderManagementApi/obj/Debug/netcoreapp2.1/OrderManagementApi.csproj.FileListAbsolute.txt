@@ -1,0 +1,17 @@
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\OrderManagementApi\OrderManagementApi\bin\Debug\netcoreapp2.1\OrderManagementApi.deps.json
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\OrderManagementApi\OrderManagementApi\bin\Debug\netcoreapp2.1\OrderManagementApi.runtimeconfig.json
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\OrderManagementApi\OrderManagementApi\bin\Debug\netcoreapp2.1\OrderManagementApi.runtimeconfig.dev.json
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\OrderManagementApi\OrderManagementApi\bin\Debug\netcoreapp2.1\OrderManagementApi.dll
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\OrderManagementApi\OrderManagementApi\bin\Debug\netcoreapp2.1\OrderManagementApi.pdb
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\OrderManagementApi\OrderManagementApi\obj\Debug\netcoreapp2.1\OrderManagementApi.csprojAssemblyReference.cache
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\OrderManagementApi\OrderManagementApi\obj\Debug\netcoreapp2.1\OrderManagementApi.csproj.CoreCompileInputs.cache
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\OrderManagementApi\OrderManagementApi\obj\Debug\netcoreapp2.1\OrderManagementApi.RazorAssemblyInfo.cache
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\OrderManagementApi\OrderManagementApi\obj\Debug\netcoreapp2.1\OrderManagementApi.RazorAssemblyInfo.cs
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\OrderManagementApi\OrderManagementApi\obj\Debug\netcoreapp2.1\OrderManagementApi.AssemblyInfoInputs.cache
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\OrderManagementApi\OrderManagementApi\obj\Debug\netcoreapp2.1\OrderManagementApi.AssemblyInfo.cs
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\OrderManagementApi\OrderManagementApi\obj\Debug\netcoreapp2.1\OrderManagementApi.RazorTargetAssemblyInfo.cache
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\OrderManagementApi\OrderManagementApi\obj\Debug\netcoreapp2.1\OrderManagementApi.dll
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\OrderManagementApi\OrderManagementApi\obj\Debug\netcoreapp2.1\OrderManagementApi.pdb
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\OrderManagementApi\OrderManagementApi\bin\Debug\netcoreapp2.1\DAL.dll
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\OrderManagementApi\OrderManagementApi\bin\Debug\netcoreapp2.1\DAL.pdb
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\OrderManagementApi\OrderManagementApi\obj\Debug\netcoreapp2.1\OrderManagementApi.csproj.CopyComplete
